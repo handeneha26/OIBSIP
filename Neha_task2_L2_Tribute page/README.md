@@ -16,6 +16,7 @@ The page includes:
 
 * HTML5
 * CSS3
+* vs code
 
 ## Features
 

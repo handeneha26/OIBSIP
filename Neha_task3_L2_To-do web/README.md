@@ -27,6 +27,7 @@ The application provides a clean and user-friendly interface where users can cre
 * HTML5
 * CSS3
 * JavaScript
+* vs code
 
 ---
 

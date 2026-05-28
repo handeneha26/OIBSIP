@@ -58,12 +58,6 @@ This project helped in understanding:
 
 ---
 
-##  Project Preview
-
-A responsive and interactive To-Do List interface with Pending and Completed task sections for better task management.
-
----
-
 ##  Conclusion
 The To-Do List Web App is a simple yet useful project that helps users manage their daily tasks efficiently. It provides features like adding, editing, deleting, and completing tasks with a responsive and user-friendly interface. Through this project, 
 important concepts of web development such as HTML structure, CSS styling, JavaScript DOM manipulation, and event handling were learned and implemented successfully.

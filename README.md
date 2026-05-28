@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Infobyte  internship tasks
+Oasis Infobyte  Web Development and Designing Internship tasks

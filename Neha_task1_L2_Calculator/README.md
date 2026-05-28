@@ -13,6 +13,7 @@ The main aim of this project is to understand how a web application works and ho
 * HTML
 * CSS
 * JavaScript
+* vs code
 
 ---
 
